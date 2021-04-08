@@ -1,0 +1,14 @@
+.fishes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fish {
+    padding: 2em;
+    margin: 2em;
+}
+
+.fish__image {
+    max-width: 10em;
+}
+
