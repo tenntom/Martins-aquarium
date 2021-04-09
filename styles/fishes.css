@@ -11,7 +11,8 @@
 }
 
 .fish__image {
-    max-width: 10em;
+    max-width: 15em;
+    max-height: 10em;
 }
 
 .fish-header {
