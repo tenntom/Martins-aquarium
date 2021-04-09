@@ -1,0 +1,18 @@
+.quotes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin-bottom: 2em;
+}
+
+.quote__text {
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    padding: 2em;
+    margin: 1em;
+}
+
+.quote-header {
+    padding-left: 1em;
+}

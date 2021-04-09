@@ -4,10 +4,14 @@
 }
 
 .location {
-    padding:2em;
-    margin: 2em;
+    padding: 1em;
+    margin: 1em;
 }
 
 .location__image {
     max-width: 10em;
+}
+
+.location-header {
+    padding-left: 1em;
 }
